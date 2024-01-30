@@ -1,9 +1,10 @@
 # Web Scraping
 
-> ** ⚠️  Web Scraping Etiquette ⚠️ **
+> ⚠️ **WEB SCRAPING ETIQUETTE**⚠️
 > 
 > Always play nice with the websites you're scraping; check out their rules and get the green light if needed. Steer clear of swiping personal stuff and be copyright-conscious. Oh, and stay in the know about the legal side of scraping – we don't want any surprise legal drama, right?
-> **ALWAYS CHECK THE __robots.txt__ file of the website you are scraping, this will show you which pages you can and cannot crawl.
+> 
+> **ALWAYS CHECK THE __robots.txt__ file of the website you are scraping, this will show you which pages you can and cannot crawl.**
 
 ## Popular libraries for Web Scraping
 
